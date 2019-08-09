@@ -1,0 +1,29 @@
+{
+  "name": "full-stack-crm",
+  "version": "1.0.0",
+  "description": "fullstack app with angular and express",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KostyaPy23/full-stack-crm.git"
+  },
+  "keywords": [
+    "angulat",
+    "epress"
+  ],
+  "author": "kostia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KostyaPy23/full-stack-crm/issues"
+  },
+  "homepage": "https://github.com/KostyaPy23/full-stack-crm#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
